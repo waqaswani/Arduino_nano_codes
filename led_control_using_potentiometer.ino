@@ -21,3 +21,5 @@ analogWrite(9,pot_value);//glow the led with intensity equal to the
 			 //value of the potentiometer
 Serial.print(pot_value);  // print the value on the Serial monitor
 }
+
+//I edited this file
